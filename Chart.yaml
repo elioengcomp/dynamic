@@ -1,1 +1,4 @@
 name: my-chart
+maintainers:
+  - name: Elio Marcolino
+    email: eliom@jfrog.com
