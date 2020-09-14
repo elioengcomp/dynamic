@@ -1,4 +1,5 @@
 name: my-chart
+version: 1.0.1
 maintainers:
   - name: Elio Marcolino
     email: eliom@jfrog.com
